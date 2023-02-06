@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koushik80/udemy-bookstore.git/static/css/main.1f59ae86.css",
+    "main.js": "/koushik80/udemy-bookstore.git/static/js/main.99c12b36.js",
+    "index.html": "/koushik80/udemy-bookstore.git/index.html",
+    "main.1f59ae86.css.map": "/koushik80/udemy-bookstore.git/static/css/main.1f59ae86.css.map",
+    "main.99c12b36.js.map": "/koushik80/udemy-bookstore.git/static/js/main.99c12b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.99c12b36.js"
+  ]
+}
