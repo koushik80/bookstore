@@ -12,8 +12,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Reading List</h1>
-      <h4>Under development...</h4>
+      <h1>Reading List(under development...)</h1>
       <BookList />
       <BookCreate />
     </div>
